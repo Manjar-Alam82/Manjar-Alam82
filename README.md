@@ -13,7 +13,7 @@
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
 - 🌐 Visit my website → **[www.ejazahmad.in](https://www.ejazahmad.in)**
-- ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
+- ✉️ Reach me anytime → **manjarmd690@gmail.com**
 - 💬 Fun to work with and fast to deliver ⚡
 
 ---
