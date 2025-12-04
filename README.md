@@ -92,9 +92,9 @@
 ### 📊 GitHub Analytics
 
 ##
- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
+ <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjar-Alam82&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjar-Alam82&show_icons=true&locale=en" alt="Fetching" /></p> 
 
 
 <!-- <p align="left">
@@ -107,7 +107,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="Fetching" /></p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjar-Alam82&" alt="Fetching" /></p> 
 
 ---
 
@@ -115,8 +115,8 @@
 If you're looking for someone to build, scale, or optimize your next project or startup —  
 I'm open to freelance work and collaborations.
 
-📩 **Drop a message** → ejazahmadbh18@gmail.com  
-📎 **Portfolio** → www.ejazahmad.in
+📩 **Drop a message** → manjarmd690@gmail.com 
+📎 **Portfolio** → www.manjaralam.netlify.app
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
